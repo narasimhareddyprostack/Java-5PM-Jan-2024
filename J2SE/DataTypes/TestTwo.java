@@ -8,6 +8,7 @@ class Test{
 		 
 		 float f;
 		 double d;
+		 
 		 char c;
 		 
 		 boolean flag;
